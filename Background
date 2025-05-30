@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Néo-Atlantis – Background</title>
+  <style>
+    body {
+      background-color: #0a0a0a;
+      color: #e0e0e0;
+      font-family: "Segoe UI", sans-serif;
+      padding: 3rem;
+      line-height: 1.6;
+      max-width: 900px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #00ffe7;
+      margin-top: 2rem;
+    }
+    p, li {
+      margin-bottom: 1rem;
+    }
+    ul {
+      padding-left: 1.5rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Néo-Atlantis, 3587 — Un enfer de verre, d'acier et de chair</h1>
+  <p>Sur les cendres englouties de New York s'est élevée Néo-Atlantis, une ville sans dieux ni lois, dirigée par la seule main des Méga-Corporations...</p>
+
+  <h2>L'Ombre derrière les tours</h2>
+  <p>Là où les corpos ne veulent pas se salir les mains, les Ombres prospèrent...</p>
+
+  <h2>Les Fixers — Ponts entre deux enfers</h2>
+  <p>Au cœur de ce système d’ombres et de sang circulent les Fixers...</p>
+
+  <h2>Les Règles dans les Ombres</h2>
+  <ul>
+    <li><strong>Discrétion</strong> : un Runner qui attire l'attention devient un problème.</li>
+    <li><strong>Vitesse</strong> : les corpos veulent des résultats rapides et efficaces.</li>
+    <li><strong>Anonymat</strong> : aucune trace ne doit remonter aux tours de verre.</li>
+  </ul>
+
+  <h2>La Vie au Jour le Jour</h2>
+  <p>Dans les bas quartiers, la survie est un contrat renouvelé chaque matin...</p>
+
+  <h2>L'Atmosphère de Néo-Atlantis</h2>
+  <p>Néo-Atlantis n’est pas une ville, c’est un piège...</p>
+
+  <p><em>Personne n’est innocent à Néo-Atlantis. Et ceux qui le sont encore ne survivent pas longtemps.</em></p>
+</body>
+</html>
